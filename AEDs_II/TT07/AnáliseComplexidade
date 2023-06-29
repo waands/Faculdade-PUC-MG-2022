@@ -1,0 +1,11 @@
+Análise de complexidade dos métodos da Agenda
+4.2) Um método construtor igual ao método inserir da árvore binária;
+	θ = (n)
+4.3) Método boolean inserir(Contato contato);
+	θ = log (n)
+4.4) Método boolean remover(String nome);
+	θ = (n)
+4.5) Método boolean pesquisar(String nome);
+	θ = (n)
+4.6) Método boolean pesquisar(int cpf);
+	θ = (n)
